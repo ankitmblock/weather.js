@@ -2,7 +2,10 @@
   "name": "weather.js",
   "version": "1.0.0",
   "description": "Weather Library",
-  "main": "index.js",
+  "main": "sample.js",
+  "scripts": {
+    "sample": "node sample"
+  },
   "devDependencies": {
     "standard": "^12.0.1"
   },
