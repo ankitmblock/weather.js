@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Weather Library",
   "main": "index.js",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
   "repository": "https://github.com/ankitmblock/weather.js.git",
   "author": "Ankit Mahajan <ankitm.block@gmail.com>",
   "license": "MIT",
