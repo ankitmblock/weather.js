@@ -7,7 +7,9 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "convict": "^4.4.1"
+    "apixu": "apixu/apixu-nodejs#v0.2.0",
+    "convict": "^4.4.1",
+    "jsdoc": "^3.5.5"
   },
   "repository": "https://github.com/ankitmblock/weather.js.git",
   "author": "Ankit Mahajan <ankitm.block@gmail.com>",
